@@ -12,3 +12,6 @@ spring:
   jpa:
     hibernate:
       ddl-auto: create
+
+  file:
+    path: C:/upload/
